@@ -1,5 +1,5 @@
 Data sets for the e-sensing project.
-================
+=====================================
 
 <img src="inst/extdata/sticker/sits_sticker.png" alt="SITS icon" align="right" height="150" width="150"/>
 
